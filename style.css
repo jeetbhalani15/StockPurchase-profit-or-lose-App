@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: rgb(36, 35, 35);
+    font-size: larger;
+}
+.container{
+    padding: 34px;
+
+}
+.btn{
+    padding: 4px 8px;
+}
+label{
+    color:  beige;
+
+}
+h3{
+    color: rgb(24, 237, 245);
+}
+#output{
+    color: chartreuse;
+    padding: 34px;
+}
